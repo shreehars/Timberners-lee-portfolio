@@ -104,3 +104,13 @@ a {
     text-decoration: underline !important;
     color: blue !important;
 }
+#contact {
+background:firebrick;     
+}
+#contact iframe {
+width: 100%;    
+}
+.contact_1 h3 {font-family: 'Warnes', cursive;
+display: inline;}
+.contact_1 a {color: whitesmoke;
+text-shadow:none; }
